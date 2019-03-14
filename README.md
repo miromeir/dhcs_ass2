@@ -1,6 +1,6 @@
 Assignment 2 for Digital Humanities
 
-Running the Assignment:
+1.Running the Assignment:
 ===
 For demonstration purposes, the file about [Meir Ariel(מאיר אריאל)](https://en.wikipedia.org/wiki/Meir_Ariel) was chosen.
 - I ran Menni Adlers tagger on the file ```untagged_lexicon/156_אריאל_מאיר.txt```. Result is at ```tagged_tagger/meir_ariel.txt```
@@ -24,7 +24,7 @@ I_LOC,פתח,accurate
  - False Positive:36
  - False Negative:21
 ```
-### Improving Results:
+### 1.2.Improving Results:
 ---
 The script searches every token found in tagger output file, in [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 For each token 
