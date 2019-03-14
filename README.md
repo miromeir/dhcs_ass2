@@ -34,6 +34,7 @@ Make a copy of the file ```tagged_tagger/meir_ariel.txt```, call it "improve_me.
 - Run:
 ``` python3 improve_results.py improve_me.txt```
 
+**Please Note: Improving takes long time, for your convenience, the file ```"improve_me.txt"``` in this repository is ALREADY IMPROVED.**
 - Now compare with TEI file:
 ```
 python3 compare_ner_tags.py improve_me.txt tagged_class/meir_ariel.xml
