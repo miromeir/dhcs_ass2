@@ -52,4 +52,4 @@ I_PERS,מאיר,accurate
  - False Positive:246
  - False Negative:14
 ```
-**We can tell there's an increase in 'Accurate', less 'False Negative'
+**We can tell there's an increase in 'Accurate', less 'False Negative'**
