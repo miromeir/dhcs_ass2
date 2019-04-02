@@ -54,3 +54,7 @@ I_PERS,מאיר,accurate
  - False Negative:14
 ```
 **We can tell there's an increase in 'Accurate', less 'False Negative'**
+
+2.Second Question
+===
+My article review is given at [https://docs.google.com/document/d/1BrsaVXs8_23AE3m07V0ivSy8ZEuWOQiyIae8zhWp3aE/edit?usp=sharing](https://docs.google.com/document/d/1BrsaVXs8_23AE3m07V0ivSy8ZEuWOQiyIae8zhWp3aE/edit?usp=sharing)
